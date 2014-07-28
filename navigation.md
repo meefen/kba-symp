@@ -1,6 +1,6 @@
 # Knowledge Building Analytics
 
-[gimmick:theme](spacelab)
+[gimmick:theme](flaty)
 
 
 [Contributors](pages/contributors.md)
