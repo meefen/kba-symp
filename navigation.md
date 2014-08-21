@@ -2,12 +2,8 @@
 
 [gimmick:theme](flaty)
 
+[Agenda](agenda.md)
 
-[Contributors](pages/contributors.md)
+[Contributors](contributors.md)
 
-[Presentations]()
-
-  * [Conceptual Framework](pages/conceptual.md)
-  * [KF API](pages/api.md)
-
-[Resources](pages/resources.md)
+[Resources](resources.md)
